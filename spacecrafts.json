@@ -9,7 +9,7 @@
   },
   {
     "id": "29",
-    "name": "Voyager B",
+    "name": "voyager a",
     "propellant": "Plasma Ions",
     "destination": "Proxima Centauri",
     "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/challenger.jpg",
