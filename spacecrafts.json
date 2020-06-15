@@ -17,7 +17,7 @@
   },
   {
     "id": "30",
-    "name": "Apollo",
+    "name": "apollo",
     "propellant": "Chemical Energy",
     "destination": "Venus",
     "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/apollo.jpg",
