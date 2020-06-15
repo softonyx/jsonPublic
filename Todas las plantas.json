@@ -22,6 +22,19 @@
         
            
         },
+		,
+         {
+            "name": "menta",
+            "description": "La menta (Mentha) es un genero de plantas populares y conocidas como refrescante bucal que se ha utilizado durante cientos de años por sus propiedades medicinales.Tiene más de dos docenas de especies y cientos de variedades que también incluyen la mentha spicata también conocida como hierbabuena y la mentha pulegium o poleo entre otras.",
+            "Rating": "4.0",
+            "episode": 500,
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/HhYZc9s/menta.jpg",
+            "text":""
+        
+           
+        },
          {
             "name": "Tomillo",
             "description": "El tomillo es una hierba mediterránea con usos dietéticos, medicinales y ornamentales. Las flores, las hojas y el aceite de tomillo se han utilizado para tratar una variedad de síntomas y dolencias desde hace miles de años.El tomillo se toma por vía oral para la bronquitis, la tos ferina, el dolor de garganta, el cólico, la artritis, el malestar estomacal, el dolor de estómago (gastritis), la diarrea, la enuresis nocturna, un trastorno del movimiento en los niños (dispraxia), los gases intestinales (flatulencia), las infecciones por parásitos y los trastornos cutáneos. También se utiliza para aumentar el flujo de orina (como diurético), para desinfectar la orina y como estimulante del apetito",
