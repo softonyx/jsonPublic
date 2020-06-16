@@ -1,0 +1,247 @@
+[
+        {
+            "name": "Aloe Vera",
+            "description": " El aloe vera es quizás uno de los remedios herbales más utilizados para afecciones tópicas de la piel. Esto se debe a que se sabe que los componentes gelatinosos de la planta curan la piel de una variedad de dolencias menores.de hecho, es posible que incluso haya usado aloe en el pasado para quemaduras solares, cortes menores o pequeñas abrasiones.  ",
+            "Rating": "7.4",
+            "episode": 500,
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/0BKqQ3g/cultivar-aloe-vera.jpg",
+            "text":""
+           
+        },
+         {
+            "name": "Menta",
+            "description": "La menta (Mentha) es un genero de plantas populares y conocidas como refrescante bucal que se ha utilizado durante cientos de años por sus propiedades medicinales.Tiene más de dos docenas de especies y cientos de variedades que también incluyen la mentha spicata también conocida como hierbabuena y la mentha pulegium o poleo entre otras.",
+            "Rating": "4.0",
+            "episode": 500,
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/HhYZc9s/menta.jpg",
+            "text":""
+        
+           
+        },
+		,
+         {
+            "name": "menta",
+            "description": "La menta (Mentha) es un genero de plantas populares y conocidas como refrescante bucal que se ha utilizado durante cientos de años por sus propiedades medicinales.Tiene más de dos docenas de especies y cientos de variedades que también incluyen la mentha spicata también conocida como hierbabuena y la mentha pulegium o poleo entre otras.",
+            "Rating": "4.0",
+            "episode": 500,
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/HhYZc9s/menta.jpg",
+            "text":""
+        
+           
+        },
+         {
+            "name": "Tomillo",
+            "description": "El tomillo es una hierba mediterránea con usos dietéticos, medicinales y ornamentales. Las flores, las hojas y el aceite de tomillo se han utilizado para tratar una variedad de síntomas y dolencias desde hace miles de años.El tomillo se toma por vía oral para la bronquitis, la tos ferina, el dolor de garganta, el cólico, la artritis, el malestar estomacal, el dolor de estómago (gastritis), la diarrea, la enuresis nocturna, un trastorno del movimiento en los niños (dispraxia), los gases intestinales (flatulencia), las infecciones por parásitos y los trastornos cutáneos. También se utiliza para aumentar el flujo de orina (como diurético), para desinfectar la orina y como estimulante del apetito",
+            "Rating": "5.6",
+            "episode": 500,
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/vxV0kDz/Tomillo.jpg",
+             "text":""
+            
+           
+        },
+         {
+            "name": "Romero",
+            "description": "El romero es una planta muy rica en principios activos y posee numerosas propiedades medicinales, entre otras, es antiséptico, antiespasmódico, aromatizante, depurativo, estimulantes estomacal, carminativo, colagogo –facilita la expulsión de la bilis–, diurético o hipotensor.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/2tCDV5v/El-romero.jpg",
+            "text":""
+           
+        },
+         {
+            "name": "Manzanilla",
+            "description": "La manzanilla es actualmente una de las plantas más consumidas en forma de infusión. Hay gente que habla de “té de manzanilla”, pero es una expresión un tanto incorrecta. Si queremos referirnos la preparación con agua caliente de esta o cualquier otra planta que no sea té (té negro, té verde, etc.), es necesario hablar de infusión.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/55TQ6TW/Manzanilla.jpg",
+            "text":""
+           
+        },
+         {
+            "name": "Caléndula",
+            "description": "Junto al aloe vera y la bardana, la caléndula es una de las plantas más indicadas para aliviar afecciones dermatológicas.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/wdNmKwh/Cal-ndula.jpg",
+            "text":""
+           
+        },
+         {
+            "name": "Milenrama",
+            "description": "La milenrama es una planta medicinal con numerosos usos tanto a nivel interno como externo, entre los que destaca el uso oral contra la diarrea, problemas de meteorismo y estomacales en general y en el uso externo como cicatrizante.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/9wPcxwd/Milenrama.jpg",
+             "text":""
+        
+           
+        },
+         {
+            "name": "Lavanda",
+            "description": "La lavanda es una planta medicinal que se caracteriza por sus propiedades calmantes. Además su aceite esencial es muy beneficioso para la salud.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/42jGFfq/Lavanda.jpg",
+            "text":""
+          
+           
+        }
+        ,
+         {
+            "name": "Equinácea",
+            "description": "La equinácea contribuye a disminuir la fiebre, la mucosidad y la tos asociadas tanto al resfriado como a otras enfermedades del sistema respiratorio.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/qpjn5HV/Equin-cea.jpg",
+            "text":""
+          
+           
+        },
+         {
+            "name": "Consuelda",
+            "description": "Consuelda (Symphytum officinale). Planta medicinal de propiedades antiinflamatorias y cicatrizantes recomendada en uso externo para tratar fracturas menores de las articulaciones, artritis, esguinces y otros traumatismos.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/dbZQ96s/Consuelda.jpg",
+            "text":""
+          
+           
+        },
+         {
+            "name": "Gordolobo",
+            "description": "El gordolobo, cuyo nombre científico es Verbascum thapsus, es una planta que crece en diferentes partes del mundo, sobre todo en terrenos verdes secos, como praderas, de Europa, Asia, América del Norte y parte de África.Se trata de una planta bastante versátil, ya que sirve para tratar una gran cantidad de afecciones y dolencias, y pese a no ser muy conocida, todo aquél interesado en plantas medicinales la tiene en cuenta. La misma pertenece a la familia de las escrofulariáceas.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/vxWvRk3/Gordolobo.jpg",
+            "text":""
+          
+           
+        }
+,
+         {
+            "name": "Cayena",
+            "description": "La cayena o pimienta roja es un alimento originario de América del Sur, Central y México, que se usa para sazonar alimentos. Esta se consume de manera habitual molida, una vez que se ha dejado secar, por lo que también se la conoce como ají en polvo o chile en polvo. Así, se trata de un tipo de pimiento de color rojizo que destaca por su sabor picante.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/5Wv9pCb/Cayena.jpg",
+            "text":""
+           }
+           
+        ,
+         {
+            "name": "Diente de león",
+            "description": "El diente de león común (Taraxacum officinale, en chino: pugongying) es una planta herbácea vivaz de la familia de las asteráceas. Posee hojas desde la base dispuestas en roseta, muy lobuladas y dentadas, y una raíz central larga y gruesa [3, 4]. Sus flores amarillas forman grandes ramilletes, visibles desde primavera hasta el verano en las ricas praderas para la apicultura. La planta segrega una savia lechosa en todas sus partes. También conocida como achicoria amarga, amargón o almirón, posee otros numerosos nombres populares.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/GxH6sbv/Diente-de-le-n.jpg",
+            "text":""
+           }
+           ,
+         {
+            "name": "Ajo",
+            "description": "El ajo es un ingrediente esencial en la dieta mediterránea y uno de los alimentos más saludables. Empleado desde antiguo como condimento, existen pruebas que demuestran que los antiguos egipcios lo consumían hace 6.000 años y que sus propiedades culinarias y medicinales eran igualmente alabadas por los griegos.",
+            "Rating": "8.16",
+            "episode": 500,
+           "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/c3vxLyC/Ajo.jpg",
+            "text":""
+           }
+           ,
+         {
+            "name": "Jengibre",
+            "description": "El jengibre es una raíz de planta con múltiples beneficios para el cuerpo y para la salud en general. Durante siglos se usó en la dieta típica de distintas culturas gracias sus propiedades naturales y de carácter nutritivo. Aumentar la temperatura del cuerpo en la gente friolera, acelerar el metabolismo, aumentar la libido o contribuir a evitar náuseas y mareos durante el embarazo son algunos de los beneficios de este alimento.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/9bqN0yd/Jengibre.jpg",
+            "text":""
+           }
+           ,
+         {
+            "name": "Ajenjo",
+            "description": "El ajenjo, es una planta herbácea nativa de Latinoamérica, que también se da en las regiones templadas de Europa y África, tiene grandes beneficios, propiedades y usos medicinales que se ha usado por las civilizaciones más antiguas del planeta, se le considera una planta medicinal muy efectiva.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"",
+            "studio":"",
+            "img": "https://i.ibb.co/x3krtYF/Ajenjo.jpg",
+            "text":""
+           }
+                    
+         ,
+         {
+            "name": "Albahaca",
+            "description": "El aceite contenido en las hojas destruye las bacterias e insectos. El zumo de las hojas alivia bronquitis, fiebres, catarros, inflamaciones de garganta y problemas digestivos. Gracias a su olor y suave sabor aromático se usa como condimento. Contra flatulencia y gases, es antiespasmódica. Una infusión de hojas frescas y gotas de limón calman los dolores de estómago y espasmos intestinales. La infusión de sus hojas es diurética, estimulante, digestiva y relajante; el zumo de las hojas con miel de abejas alivia la fiebre. El té de albahaca hace producir más leche en las madres. El té frío es bueno para problemas en los ojos, tanto en enjuague como bebida. La albahaca es el gran regulador del sistema nervioso.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"",
+            "studio":"",
+            "img": "https://i.ibb.co/1zzqCFp/Albahaca.jpg",
+            "text":""
+           }
+     ,
+         {
+            "name": "Apio",
+            "description": "Tiene acción diurética, sirve para combatir el estreñimiento, alivia la acidez estomacal, es una fuente de calcio, disminuye el colesterol, repone los electrolitos perdidos en la actividad física y tiene propiedades anti-inflamatorias.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"",
+            "studio":"",
+            "img": "https://i.ibb.co/rs2G1Sv/Apio.jpg",
+            "text":""
+           }
+		     ,
+         {
+            "name": "Árnica",
+            "description": "Es un potente anti-inflamatorio generalmente se usa por vía tópica para el tratamiento de hematomas, esguinces, inflamaciones causadas por picaduras de insectos y en enfermedades reumáticas.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"",
+            "studio":"",
+            "img": "https://i.ibb.co/HHH2hP9/arnica.jpg",
+            "text":""
+           }
+ ,
+         {
+            "name": "Bardana",
+            "description": "La bardana se suele utilizar para problemas dermatológicos, artritis e infecciones. En Europa se han utilizado tradicionalmente la raíz y las hojas, mientras que la medicina china prefiere las semillas y las suele incluir en los tratamientos del resfriado común.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"",
+            "studio":"",
+            "img": "https://i.ibb.co/Y29PD5J/Bardana.jpg",
+            "text":""
+           }
+
+		
+   ]
